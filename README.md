@@ -15,8 +15,10 @@ may not be really feasible.
 
 ## Supported Databases
 
+-   H2
 -   MySQL
 -   MariaDB
+-   MSSQL
 -   PostgreSQL
 -   Oracle
 
